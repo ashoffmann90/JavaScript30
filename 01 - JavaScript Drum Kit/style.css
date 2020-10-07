@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('https://i.imgur.com/b9r5sEL.jpg') bottom center;
+  background: url('https://edgetulsa.com/wp-content/uploads/2015/07/crowd-concert-black-and-white-photo-218480.jpg') bottom center;
   background-size: cover;
 }
 
@@ -27,7 +27,7 @@ body,html {
   transition: all .07s ease;
   width: 10rem;
   text-align: center;
-  color: white;
+  color: rgba(238, 121, 43, 0.822);
   background: rgba(0,0,0,0.4);
   text-shadow: 0 0 .5rem black;
 }
